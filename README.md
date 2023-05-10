@@ -1,6 +1,7 @@
 ## json-server kao backend za školske predmete
 
 Server omogućava dobavljanje niza objekata koji predstavljaju predmete. Svaki predmet sadrži i niz nastavnika koji ga predaju kao i niz učenika koji ga slušaju. Primer objekta:
+   
     {
       "id": 1,
       "predmet": "IN quis justo",
@@ -56,9 +57,11 @@ Iskorišćen je [json-server](https://github.com/typicode/json-server).
 ### Instalacija i korišćenje
 
 Nakon kloniranja ući u napravljeni direktorijum,
+    
     npm install
 
 Pokrenuti server sa
+    
     npm run start
 
 Server će se pokrenuti na http://localhost:3001, što omogućava istovremeno pokretanje react aplikacije.
