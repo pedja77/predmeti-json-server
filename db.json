@@ -1,0 +1,517 @@
+{
+  "predmeti": [
+    {
+      "id": 1,
+      "predmet": "IN quis justo",
+      "fond": 10,
+      "razred": 1,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Marie-noël",
+          "prezime": "Raiment",
+          "datumRodjenja": "27/12/2018",
+          "razred": 7
+        },
+        {
+          "id": 2,
+          "ime": "Táng",
+          "prezime": "Melesk",
+          "datumRodjenja": "02/08/2016",
+          "razred": 2
+        },
+        {
+          "id": 3,
+          "ime": "Pénélope",
+          "prezime": "Crockatt",
+          "datumRodjenja": "20/09/2008",
+          "razred": 3
+        },
+        {
+          "id": 4,
+          "ime": "Aí",
+          "prezime": "Glasbey",
+          "datumRodjenja": "28/09/2011",
+          "razred": 7
+        },
+        {
+          "id": 5,
+          "ime": "Noëlla",
+          "prezime": "Chisholme",
+          "datumRodjenja": "06/12/2014",
+          "razred": 7
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Mà", "prezime": "Richichi", "nedeljniFond": 17 },
+        { "id": 2, "ime": "Méline", "prezime": "Mundell", "nedeljniFond": 30 }
+      ]
+    },
+    {
+      "id": 2,
+      "predmet": "vestibulum sed",
+      "fond": 8,
+      "razred": 7,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Tán",
+          "prezime": "Tarling",
+          "datumRodjenja": "16/07/2012",
+          "razred": 8
+        },
+        {
+          "id": 2,
+          "ime": "Nélie",
+          "prezime": "Schimoni",
+          "datumRodjenja": "13/08/2010",
+          "razred": 8
+        },
+        {
+          "id": 3,
+          "ime": "Gaétane",
+          "prezime": "Weond",
+          "datumRodjenja": "07/07/2017",
+          "razred": 5
+        },
+        {
+          "id": 4,
+          "ime": "Renée",
+          "prezime": "Dykins",
+          "datumRodjenja": "24/09/2011",
+          "razred": 6
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Michèle", "prezime": "Hasard", "nedeljniFond": 34 }
+      ]
+    },
+    {
+      "id": 3,
+      "predmet": "consectetuer eget rutrum",
+      "fond": 6,
+      "razred": 5,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Lorène",
+          "prezime": "Bambridge",
+          "datumRodjenja": "16/11/2012",
+          "razred": 2
+        },
+        {
+          "id": 2,
+          "ime": "Erwéi",
+          "prezime": "Gottelier",
+          "datumRodjenja": "02/11/2017",
+          "razred": 5
+        },
+        {
+          "id": 3,
+          "ime": "Lyséa",
+          "prezime": "Fishburn",
+          "datumRodjenja": "10/09/2012",
+          "razred": 1
+        }
+      ],
+      "nastavnici": []
+    },
+    {
+      "id": 4,
+      "predmet": "natoque penatibus et",
+      "fond": 1,
+      "razred": 4,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Cécile",
+          "prezime": "Galley",
+          "datumRodjenja": "26/09/2010",
+          "razred": 2
+        },
+        {
+          "id": 2,
+          "ime": "Dafnée",
+          "prezime": "Crasswell",
+          "datumRodjenja": "09/06/2009",
+          "razred": 1
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Vérane", "prezime": "Gauntley", "nedeljniFond": 10 },
+        { "id": 2, "ime": "Gaëlle", "prezime": "Hector", "nedeljniFond": 26 },
+        { "id": 3, "ime": "Fèi", "prezime": "Bontein", "nedeljniFond": 35 }
+      ]
+    },
+    {
+      "id": 5,
+      "predmet": "duis",
+      "fond": 6,
+      "razred": 7,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Kù",
+          "prezime": "Jacke",
+          "datumRodjenja": "30/11/2019",
+          "razred": 3
+        },
+        {
+          "id": 2,
+          "ime": "Naéva",
+          "prezime": "Dorrins",
+          "datumRodjenja": "30/03/2019",
+          "razred": 2
+        },
+        {
+          "id": 3,
+          "ime": "Hélène",
+          "prezime": "Maudling",
+          "datumRodjenja": "21/01/2014",
+          "razred": 3
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Loïs", "prezime": "Fleeming", "nedeljniFond": 32 },
+        { "id": 2, "ime": "Maéna", "prezime": "Cashin", "nedeljniFond": 28 },
+        { "id": 3, "ime": "Lén", "prezime": "Cawston", "nedeljniFond": 21 }
+      ]
+    },
+    {
+      "id": 6,
+      "predmet": "ut at",
+      "fond": 4,
+      "razred": 5,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Méryl",
+          "prezime": "Pretsell",
+          "datumRodjenja": "28/12/2022",
+          "razred": 1
+        },
+        {
+          "id": 2,
+          "ime": "Fèi",
+          "prezime": "Orrey",
+          "datumRodjenja": "06/07/2018",
+          "razred": 5
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Rébecca", "prezime": "Kynton", "nedeljniFond": 21 },
+        {
+          "id": 2,
+          "ime": "Maëly",
+          "prezime": "Karczinski",
+          "nedeljniFond": 17
+        },
+        { "id": 3, "ime": "Maïly", "prezime": "Carlile", "nedeljniFond": 34 }
+      ]
+    },
+    {
+      "id": 7,
+      "predmet": "in",
+      "fond": 10,
+      "razred": 7,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Françoise",
+          "prezime": "Kleinstern",
+          "datumRodjenja": "01/11/2008",
+          "razred": 7
+        }
+      ],
+      "nastavnici": []
+    },
+    {
+      "id": 8,
+      "predmet": "pulvinar",
+      "fond": 8,
+      "razred": 2,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Lèi",
+          "prezime": "Headly",
+          "datumRodjenja": "20/06/2012",
+          "razred": 5
+        },
+        {
+          "id": 2,
+          "ime": "Naéva",
+          "prezime": "Dudenie",
+          "datumRodjenja": "03/10/2016",
+          "razred": 2
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Céline", "prezime": "Edgeon", "nedeljniFond": 17 },
+        { "id": 2, "ime": "Lài", "prezime": "Perceval", "nedeljniFond": 33 },
+        {
+          "id": 3,
+          "ime": "Béatrice",
+          "prezime": "Chapman",
+          "nedeljniFond": 21
+        },
+        {
+          "id": 4,
+          "ime": "Françoise",
+          "prezime": "Golborne",
+          "nedeljniFond": 36
+        },
+        {
+          "id": 5,
+          "ime": "Thérèse",
+          "prezime": "L'Episcopi",
+          "nedeljniFond": 32
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "predmet": "in",
+      "fond": 3,
+      "razred": 4,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Clémentine",
+          "prezime": "Wroath",
+          "datumRodjenja": "15/07/2010",
+          "razred": 7
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Lén", "prezime": "Mateus", "nedeljniFond": 40 },
+        { "id": 2, "ime": "Lyséa", "prezime": "Balassi", "nedeljniFond": 25 },
+        { "id": 3, "ime": "Aí", "prezime": "Dumbarton", "nedeljniFond": 26 },
+        { "id": 4, "ime": "Gaïa", "prezime": "Daborne", "nedeljniFond": 20 },
+        { "id": 5, "ime": "Kuí", "prezime": "Matyushkin", "nedeljniFond": 28 }
+      ]
+    },
+    {
+      "id": 10,
+      "predmet": "aliquet pulvinar",
+      "fond": 1,
+      "razred": 3,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Aloïs",
+          "prezime": "Broinlich",
+          "datumRodjenja": "28/08/2008",
+          "razred": 4
+        },
+        {
+          "id": 2,
+          "ime": "Liè",
+          "prezime": "Rehorek",
+          "datumRodjenja": "24/09/2021",
+          "razred": 1
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Solène", "prezime": "Barrott", "nedeljniFond": 19 },
+        { "id": 2, "ime": "Eléa", "prezime": "Barrow", "nedeljniFond": 29 },
+        {
+          "id": 3,
+          "ime": "Simplifiés",
+          "prezime": "Biasi",
+          "nedeljniFond": 13
+        },
+        { "id": 4, "ime": "Zoé", "prezime": "Ownsworth", "nedeljniFond": 24 }
+      ]
+    },
+    {
+      "id": 11,
+      "predmet": "vitae",
+      "fond": 5,
+      "razred": 8,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Célia",
+          "prezime": "Giotto",
+          "datumRodjenja": "21/04/2010",
+          "razred": 6
+        },
+        {
+          "id": 2,
+          "ime": "Yénora",
+          "prezime": "Coddrington",
+          "datumRodjenja": "10/12/2021",
+          "razred": 4
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Lóng", "prezime": "Djokovic", "nedeljniFond": 21 },
+        { "id": 2, "ime": "Nélie", "prezime": "Jacox", "nedeljniFond": 29 },
+        { "id": 3, "ime": "Maëlla", "prezime": "Quarmby", "nedeljniFond": 19 },
+        { "id": 4, "ime": "Maï", "prezime": "Farlow", "nedeljniFond": 33 }
+      ]
+    },
+    {
+      "id": 12,
+      "predmet": "augue aliquam",
+      "fond": 3,
+      "razred": 8,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Marie-thérèse",
+          "prezime": "Leak",
+          "datumRodjenja": "02/01/2021",
+          "razred": 1
+        }
+      ],
+      "nastavnici": [
+        {
+          "id": 1,
+          "ime": "Andréanne",
+          "prezime": "Morrid",
+          "nedeljniFond": 19
+        },
+        { "id": 2, "ime": "Dù", "prezime": "Parslow", "nedeljniFond": 19 },
+        { "id": 3, "ime": "Irène", "prezime": "Donisi", "nedeljniFond": 20 },
+        { "id": 4, "ime": "Médiamass", "prezime": "Chong", "nedeljniFond": 14 },
+        { "id": 5, "ime": "Loïs", "prezime": "DelaField", "nedeljniFond": 39 }
+      ]
+    },
+    {
+      "id": 13,
+      "predmet": "viverra",
+      "fond": 1,
+      "razred": 3,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Céline",
+          "prezime": "MacAlester",
+          "datumRodjenja": "24/11/2016",
+          "razred": 2
+        },
+        {
+          "id": 2,
+          "ime": "Yénora",
+          "prezime": "Pentelow",
+          "datumRodjenja": "04/08/2015",
+          "razred": 5
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Danièle", "prezime": "Deville", "nedeljniFond": 22 },
+        { "id": 2, "ime": "Yú", "prezime": "Maggorini", "nedeljniFond": 15 },
+        {
+          "id": 3,
+          "ime": "Gisèle",
+          "prezime": "Cuschieri",
+          "nedeljniFond": 23
+        },
+        { "id": 4, "ime": "Maïté", "prezime": "Cullabine", "nedeljniFond": 15 }
+      ]
+    },
+    {
+      "id": 14,
+      "predmet": "adipiscing",
+      "fond": 1,
+      "razred": 1,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Adélaïde",
+          "prezime": "Schulz",
+          "datumRodjenja": "12/11/2017",
+          "razred": 5
+        },
+        {
+          "id": 2,
+          "ime": "Léone",
+          "prezime": "Josefsohn",
+          "datumRodjenja": "20/12/2011",
+          "razred": 3
+        }
+      ],
+      "nastavnici": [
+        { "id": 1, "ime": "Lorène", "prezime": "Lecointe", "nedeljniFond": 35 },
+        {
+          "id": 2,
+          "ime": "Bérangère",
+          "prezime": "Blowfield",
+          "nedeljniFond": 37
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "predmet": "sagittis sapien cum",
+      "fond": 1,
+      "razred": 5,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "Görel",
+          "prezime": "Oldrey",
+          "datumRodjenja": "28/07/2012",
+          "razred": 4
+        }
+      ],
+      "nastavnici": [
+        {
+          "id": 1,
+          "ime": "Marylène",
+          "prezime": "Baugham",
+          "nedeljniFond": 11
+        },
+        { "id": 2, "ime": "Bénédicte", "prezime": "Tibalt", "nedeljniFond": 39 }
+      ]
+    },
+    {
+      "id": 16,
+      "predmet": "ut",
+      "fond": 6,
+      "razred": 1,
+      "ucenici": [
+        {
+          "id": 1,
+          "ime": "André",
+          "prezime": "Jandel",
+          "datumRodjenja": "23/11/2017",
+          "razred": 5
+        },
+        {
+          "id": 2,
+          "ime": "Cécilia",
+          "prezime": "Dorman",
+          "datumRodjenja": "09/06/2021",
+          "razred": 6
+        },
+        {
+          "id": 3,
+          "ime": "Valérie",
+          "prezime": "Stolte",
+          "datumRodjenja": "29/03/2019",
+          "razred": 8
+        },
+        {
+          "id": 4,
+          "ime": "Dorothée",
+          "prezime": "Ireland",
+          "datumRodjenja": "05/03/2017",
+          "razred": 6
+        }
+      ],
+      "nastavnici": [
+        {
+          "id": 1,
+          "ime": "Clémence",
+          "prezime": "Rodenborch",
+          "nedeljniFond": 38
+        },
+        { "id": 2, "ime": "Hélène", "prezime": "Shirrell", "nedeljniFond": 24 },
+        { "id": 3, "ime": "Camélia", "prezime": "Bradick", "nedeljniFond": 11 }
+      ]
+    }
+  ]
+}
