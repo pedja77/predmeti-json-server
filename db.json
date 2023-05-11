@@ -2,7 +2,7 @@
   "predmeti": [
     {
       "id": 1,
-      "predmet": "IN quis justo",
+      "predmet": "Srpski jezik",
       "fond": 10,
       "razred": 1,
       "ucenici": [
@@ -11,35 +11,36 @@
           "ime": "Marie-noël",
           "prezime": "Raiment",
           "datumRodjenja": "27/12/2018",
-          "razred": 7
+          "razred": 1
         },
         {
           "id": 2,
           "ime": "Táng",
           "prezime": "Melesk",
           "datumRodjenja": "02/08/2016",
-          "razred": 2
+          "razred": 1
         },
         {
           "id": 3,
           "ime": "Pénélope",
           "prezime": "Crockatt",
           "datumRodjenja": "20/09/2008",
-          "razred": 3
+          "razred": 1
         },
         {
           "id": 4,
           "ime": "Aí",
           "prezime": "Glasbey",
           "datumRodjenja": "28/09/2011",
-          "razred": 7
+          "razred": 1
         },
+
         {
           "id": 5,
           "ime": "Noëlla",
           "prezime": "Chisholme",
           "datumRodjenja": "06/12/2014",
-          "razred": 7
+          "razred": 1
         }
       ],
       "nastavnici": [
@@ -49,7 +50,7 @@
     },
     {
       "id": 2,
-      "predmet": "vestibulum sed",
+      "predmet": "Fizika",
       "fond": 8,
       "razred": 7,
       "ucenici": [
@@ -58,28 +59,28 @@
           "ime": "Tán",
           "prezime": "Tarling",
           "datumRodjenja": "16/07/2012",
-          "razred": 8
+          "razred": 7
         },
         {
           "id": 2,
           "ime": "Nélie",
           "prezime": "Schimoni",
           "datumRodjenja": "13/08/2010",
-          "razred": 8
+          "razred": 7
         },
         {
           "id": 3,
           "ime": "Gaétane",
           "prezime": "Weond",
           "datumRodjenja": "07/07/2017",
-          "razred": 5
+          "razred": 7
         },
         {
           "id": 4,
           "ime": "Renée",
           "prezime": "Dykins",
           "datumRodjenja": "24/09/2011",
-          "razred": 6
+          "razred": 7
         }
       ],
       "nastavnici": [
@@ -88,7 +89,7 @@
     },
     {
       "id": 3,
-      "predmet": "consectetuer eget rutrum",
+      "predmet": "Muzička kultura",
       "fond": 6,
       "razred": 5,
       "ucenici": [
@@ -97,7 +98,7 @@
           "ime": "Lorène",
           "prezime": "Bambridge",
           "datumRodjenja": "16/11/2012",
-          "razred": 2
+          "razred": 5
         },
         {
           "id": 2,
@@ -111,15 +112,15 @@
           "ime": "Lyséa",
           "prezime": "Fishburn",
           "datumRodjenja": "10/09/2012",
-          "razred": 1
+          "razred": 5
         }
       ],
       "nastavnici": []
     },
     {
       "id": 4,
-      "predmet": "natoque penatibus et",
-      "fond": 1,
+      "predmet": "Od igračke do računara",
+      "fond": 2,
       "razred": 4,
       "ucenici": [
         {
@@ -127,14 +128,14 @@
           "ime": "Cécile",
           "prezime": "Galley",
           "datumRodjenja": "26/09/2010",
-          "razred": 2
+          "razred": 4
         },
         {
           "id": 2,
           "ime": "Dafnée",
           "prezime": "Crasswell",
           "datumRodjenja": "09/06/2009",
-          "razred": 1
+          "razred": 4
         }
       ],
       "nastavnici": [
@@ -145,7 +146,7 @@
     },
     {
       "id": 5,
-      "predmet": "duis",
+      "predmet": "Likovna kultura",
       "fond": 6,
       "razred": 7,
       "ucenici": [
@@ -154,21 +155,21 @@
           "ime": "Kù",
           "prezime": "Jacke",
           "datumRodjenja": "30/11/2019",
-          "razred": 3
+          "razred": 7
         },
         {
           "id": 2,
           "ime": "Naéva",
           "prezime": "Dorrins",
           "datumRodjenja": "30/03/2019",
-          "razred": 2
+          "razred": 7
         },
         {
           "id": 3,
           "ime": "Hélène",
           "prezime": "Maudling",
           "datumRodjenja": "21/01/2014",
-          "razred": 3
+          "razred": 7
         }
       ],
       "nastavnici": [
@@ -179,7 +180,7 @@
     },
     {
       "id": 6,
-      "predmet": "ut at",
+      "predmet": "Matematika",
       "fond": 4,
       "razred": 5,
       "ucenici": [
@@ -188,7 +189,7 @@
           "ime": "Méryl",
           "prezime": "Pretsell",
           "datumRodjenja": "28/12/2022",
-          "razred": 1
+          "razred": 5
         },
         {
           "id": 2,
@@ -211,7 +212,7 @@
     },
     {
       "id": 7,
-      "predmet": "in",
+      "predmet": "Engleski jezik",
       "fond": 10,
       "razred": 7,
       "ucenici": [
@@ -227,7 +228,7 @@
     },
     {
       "id": 8,
-      "predmet": "pulvinar",
+      "predmet": "Svet oko nas",
       "fond": 8,
       "razred": 2,
       "ucenici": [
@@ -236,7 +237,7 @@
           "ime": "Lèi",
           "prezime": "Headly",
           "datumRodjenja": "20/06/2012",
-          "razred": 5
+          "razred": 2
         },
         {
           "id": 2,
@@ -271,7 +272,7 @@
     },
     {
       "id": 9,
-      "predmet": "in",
+      "predmet": "Priroda i društvo",
       "fond": 3,
       "razred": 4,
       "ucenici": [
@@ -280,7 +281,7 @@
           "ime": "Clémentine",
           "prezime": "Wroath",
           "datumRodjenja": "15/07/2010",
-          "razred": 7
+          "razred": 4
         }
       ],
       "nastavnici": [
@@ -293,7 +294,7 @@
     },
     {
       "id": 10,
-      "predmet": "aliquet pulvinar",
+      "predmet": "Priroda i društvo",
       "fond": 1,
       "razred": 3,
       "ucenici": [
@@ -302,14 +303,14 @@
           "ime": "Aloïs",
           "prezime": "Broinlich",
           "datumRodjenja": "28/08/2008",
-          "razred": 4
+          "razred": 3
         },
         {
           "id": 2,
           "ime": "Liè",
           "prezime": "Rehorek",
           "datumRodjenja": "24/09/2021",
-          "razred": 1
+          "razred": 3
         }
       ],
       "nastavnici": [
@@ -326,7 +327,7 @@
     },
     {
       "id": 11,
-      "predmet": "vitae",
+      "predmet": "Građansko vaspitanje",
       "fond": 5,
       "razred": 8,
       "ucenici": [
@@ -335,14 +336,14 @@
           "ime": "Célia",
           "prezime": "Giotto",
           "datumRodjenja": "21/04/2010",
-          "razred": 6
+          "razred": 8
         },
         {
           "id": 2,
           "ime": "Yénora",
           "prezime": "Coddrington",
           "datumRodjenja": "10/12/2021",
-          "razred": 4
+          "razred": 8
         }
       ],
       "nastavnici": [
@@ -354,7 +355,7 @@
     },
     {
       "id": 12,
-      "predmet": "augue aliquam",
+      "predmet": "Matematika",
       "fond": 3,
       "razred": 8,
       "ucenici": [
@@ -363,7 +364,7 @@
           "ime": "Marie-thérèse",
           "prezime": "Leak",
           "datumRodjenja": "02/01/2021",
-          "razred": 1
+          "razred": 8
         }
       ],
       "nastavnici": [
@@ -381,7 +382,7 @@
     },
     {
       "id": 13,
-      "predmet": "viverra",
+      "predmet": "Čuvari prirode",
       "fond": 1,
       "razred": 3,
       "ucenici": [
@@ -390,14 +391,14 @@
           "ime": "Céline",
           "prezime": "MacAlester",
           "datumRodjenja": "24/11/2016",
-          "razred": 2
+          "razred": 3
         },
         {
           "id": 2,
           "ime": "Yénora",
           "prezime": "Pentelow",
           "datumRodjenja": "04/08/2015",
-          "razred": 5
+          "razred": 3
         }
       ],
       "nastavnici": [
@@ -414,7 +415,7 @@
     },
     {
       "id": 14,
-      "predmet": "adipiscing",
+      "predmet": "Likovna kultura",
       "fond": 1,
       "razred": 1,
       "ucenici": [
@@ -423,14 +424,14 @@
           "ime": "Adélaïde",
           "prezime": "Schulz",
           "datumRodjenja": "12/11/2017",
-          "razred": 5
+          "razred": 1
         },
         {
           "id": 2,
           "ime": "Léone",
           "prezime": "Josefsohn",
           "datumRodjenja": "20/12/2011",
-          "razred": 3
+          "razred": 1
         }
       ],
       "nastavnici": [
@@ -445,7 +446,7 @@
     },
     {
       "id": 15,
-      "predmet": "sagittis sapien cum",
+      "predmet": "Istorija",
       "fond": 1,
       "razred": 5,
       "ucenici": [
@@ -454,7 +455,7 @@
           "ime": "Görel",
           "prezime": "Oldrey",
           "datumRodjenja": "28/07/2012",
-          "razred": 4
+          "razred": 5
         }
       ],
       "nastavnici": [
@@ -469,7 +470,7 @@
     },
     {
       "id": 16,
-      "predmet": "ut",
+      "predmet": "Građansko vaspitanje",
       "fond": 6,
       "razred": 1,
       "ucenici": [
@@ -478,28 +479,28 @@
           "ime": "André",
           "prezime": "Jandel",
           "datumRodjenja": "23/11/2017",
-          "razred": 5
+          "razred": 1
         },
         {
           "id": 2,
           "ime": "Cécilia",
           "prezime": "Dorman",
           "datumRodjenja": "09/06/2021",
-          "razred": 6
+          "razred": 1
         },
         {
           "id": 3,
           "ime": "Valérie",
           "prezime": "Stolte",
           "datumRodjenja": "29/03/2019",
-          "razred": 8
+          "razred": 1
         },
         {
           "id": 4,
           "ime": "Dorothée",
           "prezime": "Ireland",
           "datumRodjenja": "05/03/2017",
-          "razred": 6
+          "razred": 1
         }
       ],
       "nastavnici": [
