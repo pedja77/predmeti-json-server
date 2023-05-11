@@ -54,6 +54,8 @@ Postoje nekonzistentnosti kada su podaci u pitanju, npr. godište učenika ne od
 
 Iskorišćen je [json-server](https://github.com/typicode/json-server).
 
+Urađeno uz pomoć ovog [tutorijala](https://dev.to/avinashvagh/json-server-getting-started-4475).
+
 ### Instalacija i korišćenje
 
 Nakon kloniranja ući u napravljeni direktorijum,
@@ -72,4 +74,4 @@ Pribavljanje pojedinačnog predmeta http://localhost:3001/api/v1/predmeti/:id
 
 Endpoint za pretragu po imenu predmeta, case insensitive je http://localhost:3001/api/v1/predmeti?predmet_like=kriterijum gde je kriterijum string koji smo dobili iz polja za pretragu.
 
-Predmeti se nalaze u fajlu db.json, apsolutno ih je moguće dodavati, brisati i modifikovati, u zavisnosti od izvršenih izmena moguće je da će se morati modifikovati i fajl routes.json.
+Predmeti se nalaze u fajlu db.json, apsolutno ih je moguće dodavati, brisati i modifikovati, u zavisnosti od izvršenih izmena moguće je da će se morati modifikovati i fajl routes.json ili endpointi.
